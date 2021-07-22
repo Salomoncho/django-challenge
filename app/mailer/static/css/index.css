@@ -1,0 +1,25 @@
+
+
+.App {
+    display: flex;
+}
+
+.gt50:hover {
+    background: green;
+}
+
+.lt50:hover {
+    background: darkorange;
+}
+
+.gt3:hover{
+    background: yellow;
+}
+
+span.badge.new  {
+    color: black;
+}
+
+span.badge{
+    color: black;
+}

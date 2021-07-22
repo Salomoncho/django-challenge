@@ -5,3 +5,4 @@ venv
 *.sqlite3
 local_settings.py
 .vagrant
+mailer/node_modules
